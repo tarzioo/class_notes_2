@@ -77,4 +77,33 @@ Discussion of modeling relationships
 * toString()
 * The . matters
 
--Discussion 
+-Discussion about PHP workshop 9/20. 4pm
+
+- Worry about what this class is supposed to provide as an interface and how this should be implemented
+
+### How to Achieve Polymorphism?
+
+- Learn about method overloading
+![super](images/super.png)
+
+### In class coding with Car class
+![Car class](images/inclassCar.png)
+
+### Learn about thread.sleep
+
+- This will be useful for the project
+
+```
+Try {
+    ....
+}
+Catch (interrupted Exception e) {
+    e.printStackTrace;
+}
+```
+
+### Upcasting and Downcasting
+
+![upcasting](images/upcasting.png)
+![downcasting](images/downcasting.png)
+
