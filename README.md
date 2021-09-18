@@ -37,3 +37,44 @@ When specifying **Extends** in UML we use an arror
 
 When specifying **Protected*** in UML use **#**
 
+## 9-15 Notes
+
+Discussion of modeling relationships
+
+- Inheritance can be bad is done incorrectly.
+- Inheritance breaks encapsulation if we use the protected keyword
+
+### Use Private ot Protected Data?
+
+- For now, stick with private
+
+### Objects and Arrays
+
+- Do not pass around references.
+
+![objects vs arrays](images/objects_vs_arrays.png)
+
+
+### In Class Coding
+
+![Driver Class](images/driver.png)
+![Shape Class](images/Shape.png)
+![Triangle Class](images/Triangle.png)
+![Rectangle Class](images/rectangle.png)
+
+
+### UML Diagram of Shapes with Square
+
+![Square UML](images/inheritance_example_square.png)
+
+- The Square class extends rectangle.
+
+![square class](images/square.png)
+
+## 9-17 Notes
+
+- Project 1 due 9/22
+* toString()
+* The . matters
+
+-Discussion 
